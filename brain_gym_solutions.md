@@ -24,7 +24,7 @@ Who is in the painting?
 :neckbeard:
 
 ```
-Answer: The man himself
+Answer: The man's son.
 ```
 
 ## Question Three
