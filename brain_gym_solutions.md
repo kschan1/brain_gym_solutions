@@ -44,11 +44,11 @@ A man has to get a fox, a chicken, and a sack of corn across a river. He has a r
 
 ```
 Answer:
-1. bring :chicken: across and return to initial side.
-2. bring :corn: across
-3. take the :chicken: with him and return it to initial side.
-4. bring :wolf: across and return to initial side.
-5. bring the :chicken: across.
+1. bring chicken across and return to initial side.
+2. bring corn across
+3. take the chicken with him and return it to initial side.
+4. bring wolf across and return to initial side.
+5. bring the chicken across.
 ```
 
 ## Question Five
